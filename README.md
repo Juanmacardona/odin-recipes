@@ -1,2 +1,3 @@
 # odin-recipes
-Projects related to The Odin Project bootcamp
+This is a project that shows skills in writtting HTML Following instructions from The Odin Project
+
